@@ -1,5 +1,5 @@
 # BuildHer-interview-Questions
-Name: Krithika Dinesh Prabhu
-College name: Canara Engineering College
-Email id: krithikadprabhu@gmail.com
+<br>Name: Krithika Dinesh Prabhu</br>
+<br>College name: Canara Engineering College</br>
+<br>Email id: krithikadprabhu@gmail.com</br>
 
